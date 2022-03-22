@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/small-quiz-react/np/static/css/main.d5aa6554.css",
-    "main.js": "/small-quiz-react/np/static/js/main.eec12bd2.js",
-    "static/js/787.9e90ff23.chunk.js": "/small-quiz-react/np/static/js/787.9e90ff23.chunk.js",
-    "index.html": "/small-quiz-react/np/index.html",
-    "main.d5aa6554.css.map": "/small-quiz-react/np/static/css/main.d5aa6554.css.map",
-    "main.eec12bd2.js.map": "/small-quiz-react/np/static/js/main.eec12bd2.js.map",
-    "787.9e90ff23.chunk.js.map": "/small-quiz-react/np/static/js/787.9e90ff23.chunk.js.map"
+    "main.css": "/small-quiz-react/static/css/main.d5aa6554.css",
+    "main.js": "/small-quiz-react/static/js/main.5c8ed559.js",
+    "static/js/787.9e90ff23.chunk.js": "/small-quiz-react/static/js/787.9e90ff23.chunk.js",
+    "index.html": "/small-quiz-react/index.html",
+    "main.d5aa6554.css.map": "/small-quiz-react/static/css/main.d5aa6554.css.map",
+    "main.5c8ed559.js.map": "/small-quiz-react/static/js/main.5c8ed559.js.map",
+    "787.9e90ff23.chunk.js.map": "/small-quiz-react/static/js/787.9e90ff23.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d5aa6554.css",
-    "static/js/main.eec12bd2.js"
+    "static/js/main.5c8ed559.js"
   ]
 }
